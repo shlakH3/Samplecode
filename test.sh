@@ -67,6 +67,6 @@ PORT    STATE  SERVICE
 440/udp closed sgcp
 457/udp closed scohelp
 484/udp closed integra-sme
-MAC Address: BC:5C:4C:A1:E7:E9 (Elecom)
+MAC Address: BC:5C:4C:A1:E7:E9 
 
 # Nmap done at Mon May 26 22:23:40 2025 -- 3 IP addresses (3 hosts up) scanned in 21.60 seconds
